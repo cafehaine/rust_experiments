@@ -1,3 +1,7 @@
+# Unmaintained project!
+
+I might take another stab at this, but at the moment I no longer plan on developing this.
+
 # Rust Experiments
 This is only some really basic stuff to teach me the basics of rust. The code
 might be the worst you've ever seen, but if that's the case, please don't look
